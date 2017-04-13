@@ -1,4 +1,3 @@
-# Band Alignment Bootcamp
 
 ## About
 
@@ -8,9 +7,9 @@ We are delighted to announce the 1st Band Alignment Bootcamp, to be held in the 
 
 Anyone interested in constructing energy-band-alignment diagrams using plane wave density functional theory approaches. From the everyday practitioner (industrial or academic) to the gifted amateur and everyone in between.
 
-## What doe it cost?
+## What does it cost?
 
-Nothing.
+Nothing. And lunch is included!
 
 ## What will it cover?
 
@@ -24,3 +23,7 @@ Nothing.
 	* Bulk semicondutor materials
 	* Nanoporous frameworks
 	* Epitaxial heterostructures
+
+## How can I sign up?
+
+Please go to our Eventbrite page to sign up.
