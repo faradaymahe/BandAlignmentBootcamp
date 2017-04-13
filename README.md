@@ -17,9 +17,9 @@ Nothing. And lunch is included!
 
 * An introduction to energy band alignment diagrams in semiconductor applications.
 
-* A background to experimental determination and modern characterisation techniques for band alignment.
+* A background to experimental determination and modern characterisation techniques for band alignment. [**Dr. Tim Veal, University of Liverpool**](http://pcwww.liv.ac.uk/~timveal/)
 
-* A theoretical background to band alignment using plane wave density functional theory.
+* A theoretical background to band alignment using plane wave density functional theory. [**Dr. Keith Butler, University of Bath**](http://people.bath.ac.uk/ktb22/)
 
 * Hands on practicals using [MacroDensity](http://wmd-group.github.io/MacroDensity/) to construct energy-band-alignment diagrams for
 	* Bulk semicondutor materials
