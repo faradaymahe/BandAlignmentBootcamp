@@ -3,6 +3,8 @@
 
 We are delighted to announce the 1st Band Alignment Bootcamp, to be held in the beautiful, historical city of Bath on September 6th. The one day workshop will provide an overview of  the theory and practice of band alignment for semiconductor applications. We will also run a hands on tutorial, using the [MacroDensity](http://wmd-group.github.io/MacroDensity/) code to construct band alignment diagrams for bulk semiconductors, nanoporous frameworks and epitaxial heterostructures.
 
+![Hybrid Band Alignment](hybrid_bands.jpeg)
+
 ## Who is it for?
 
 Anyone interested in constructing energy-band-alignment diagrams using plane wave density functional theory approaches. From the everyday practitioner (industrial or academic) to the gifted amateur and everyone in between.
