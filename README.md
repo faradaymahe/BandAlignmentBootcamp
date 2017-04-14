@@ -40,3 +40,6 @@ The workshop will be held from 11:00 am – 16:00 pm in the [Bath Royal Literary
 
 A laptop computer with [MacroDensity](http://wmd-group.github.io/MacroDensity/) installed. Your A-game.
 
+## Sponsorship
+
+<img src="small_epsrc.jpg" alt="hi" class="inline"/>
