@@ -42,4 +42,4 @@ A laptop computer with [MacroDensity](http://wmd-group.github.io/MacroDensity/) 
 
 ## Sponsorship
 
-<img src="small_epsrc.jpg" alt="hi" class="inline"/>
+<a href="https://www.epsrc.ac.uk/"><img src="small_epsrc.jpg" alt="hi" class="inline"/></a>
