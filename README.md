@@ -43,3 +43,5 @@ A laptop computer with [MacroDensity](http://wmd-group.github.io/MacroDensity/) 
 ## Sponsorship
 
 <a href="https://www.epsrc.ac.uk/"><img src="small_epsrc.jpg" alt="hi" class="inline"/></a>
+
+This event is supported by the EPSRC project "Multi-Scale Modelling of Hybrid Perovskites for Solar Cells" led by Aron Walsh and Mark van Schilfgaarde (Grant no. EP/M009580/1)
