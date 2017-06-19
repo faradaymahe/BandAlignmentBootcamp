@@ -3,6 +3,13 @@
 
 We are delighted to announce the 1st Band Alignment Bootcamp, to be held in the beautiful, historical city of Bath on September 6th. The one day workshop will provide an overview of  the theory and practice of band alignment for semiconductor applications. We will also run a hands on tutorial, using the [MacroDensity](http://wmd-group.github.io/MacroDensity/) code to construct band alignment diagrams for bulk semiconductors, nanoporous frameworks and epitaxial heterostructures.
 
+* [Theory of ionization potentials of nonmetallic solids, PRB 2017](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.125309)
+* [Electronic Chemical Potentials of Porous Metal–Organic Frameworks, JACS 2014](http://pubs.acs.org/doi/abs/10.1021/ja4110073)
+* [Heterojunction band offset engineering, Surf. Sci. Rep. 1996](http://www.sciencedirect.com/science/article/pii/0167572995000089?via%3Dihub)
+* [Band engineering at interfaces: theory and numerical experiments, J. Phys. D 1998](http://iopscience.iop.org/article/10.1088/0022-3727/31/11/002/meta)
+* [Theoretical study of band offsets at semiconductor interfaces, PRB 1987](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.35.8154)
+* [Theory of the work function. ii. the surface double layer, PR 1936](https://journals.aps.org/pr/abstract/10.1103/PhysRev.49.653)
+
 <img src="hybrid_bands.jpeg" alt="hi" class="inline"/>
 
 ## Who is it for?
