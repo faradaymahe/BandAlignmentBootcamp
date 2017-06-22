@@ -39,7 +39,7 @@ Please go to our [Eventbrite page](https://www.eventbrite.com/e/bandalignmentboo
 
 ## Where and when is it exactly?
 
-The workshop will be held from 11:00 am – 16:00 pm in the [Bath Royal Literary and Scientific Institution](https://www.brlsi.org/), in the heart of Bath.
+The workshop will be held from 11:00 am – 16:00 pm in the [Bath Royal Literary and Scientific Institution](https://www.brlsi.org/).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4980.376439183488!2d-2.3662624060598354!3d51.38121867453923!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5da38db64012c6af!2sBath+Royal+Literary+%26+Scientific+Institution!5e0!3m2!1sen!2suk!4v1492099417502" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
